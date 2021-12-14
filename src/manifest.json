@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.ashish.tableOfContents",
+	"app_min_version": "2.2",
+	"version": "1.0.0",
+	"name": "Table Of Contents",
+	"description": "table of contents from markdown",
+	"author": "Ashish Thapa",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": []
+}
